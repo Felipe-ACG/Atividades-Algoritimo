@@ -1,0 +1,13 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src.js",
+  "scripts": {
+    "Exercicio1":"node ./aula/Exercicio1",
+    "Exercicio2":"node ./aula/Exercicio2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
