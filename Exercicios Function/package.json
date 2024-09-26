@@ -1,0 +1,18 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Ex1": "node ./src/Ex1",
+    "Ex2": "node ./src/Ex2",
+    "Ex3": "node ./src/Ex3",
+    "Ex4": "node ./src/Ex4",
+    "Ex5": "node ./src/Ex5",
+    "Ex6": "node ./src/Ex6",
+    "Ex7": "node ./src/Ex7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
