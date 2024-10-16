@@ -1,4 +1,5 @@
 let entrada = prompt("Entre com a idade:");
+entrada = parseInt(entrada)
 if(entrada < 18){
  console.log("de menor");
 }
