@@ -1,0 +1,17 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "main": "exercicio1.ts",
+  "scripts": {
+    "um": " ts-node ./src/exercicio1",
+    "dois": "ts-node ./src/exercicio2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
