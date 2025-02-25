@@ -1,0 +1,13 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "Ex1": "npx ts-node ./src/Ex1",
+    "Ex2": "npx ts-node ./src/Ex2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
