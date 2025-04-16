@@ -4,6 +4,8 @@ npm init -y
 npm i -D ts-node typescript   
 npx tsc --init
 
+criar template ts: npm create vite@latest front -- --template react-ts 
+
 criar um file .ts
 no package.json
 {
